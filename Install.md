@@ -53,7 +53,7 @@ sudo mkdir -p /opt
 sudo chown -R $USER:$USER /opt
 
 cd /opt
-git clone https://github.com/annex1337/telegram-chat-monitor.git tgbot
+git clone https://github.com/annex1337/Telegram_chats_monitor.git tgbot
 cd tgbot
 ```
 
