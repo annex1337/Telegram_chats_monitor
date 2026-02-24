@@ -1,0 +1,1 @@
+"""tgbot Telegram bot package."""
